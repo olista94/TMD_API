@@ -15,7 +15,8 @@ La información a devolver es la siguiente:
 - Fecha de estreno
 - Sinopsis / Descripción
 - Lista (máximo 5) de películas de temática similar (Dar tematica). NOTA: tendrás que utilizar otra operación para recuperarlas. Mostrarla en este formato, por ejemplo:
-	- Título película 1 (1969), Título película 2 (1998)
+	- Título película 1 (1969)
+   	-  Título película 2 (1998)
 	Título de película y entre paréntesis el año de estreno.
 
 * Si para una búsqueda por título la API de TMD devuelve más de un resultado, devolver los resultados sobre el primero de ellos.
